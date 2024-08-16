@@ -1,0 +1,20 @@
+h1 {
+    font-family: verdana, sans-serif;
+    font-size: 50px;
+  
+}
+
+.center {
+    text-align: center;
+}
+
+.card {
+    background-color: rgb(220, 219, 176);
+    border-radius: 8px;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 10px;
+    padding-bottom: 10px;
+}
